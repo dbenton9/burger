@@ -1,0 +1,11 @@
+{
+  "name": "burgers",
+  "version": "1.0.0",
+  "description": "HW #12: Using MySQL, Express.js, and Handlebars a website is built to record a list of burgers and update it as the user interacts with frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
