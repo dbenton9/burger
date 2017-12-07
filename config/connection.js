@@ -1,4 +1,4 @@
-// requirements
+// node package requirements
 var mysql = require("mysql");
 
 // setting up mysql connection
